@@ -1,4 +1,4 @@
-! Persian language is supported .
+ ! Persian language is supported .
 
 # Getting Started with Create React App
 
